@@ -1,3 +1,4 @@
+# 我就在这里加了个注释
 <?php
 
 use Illuminate\Contracts\Http\Kernel;
